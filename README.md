@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Feonixid;Independent+ML+Researcher;Student;Trying+to+move+the+needle+closer+to+AGI" alt="Typing SVG" />
 </div>
 
-<h3 align="center">Status: doing nothing about my sleep. Never have.</h3>
+<h3 align="center">Status: doing nothing about my sleep.</h3>
 
 <p align="center"> The Balkans &nbsp;·&nbsp;  English · Albanian · Greek</p>
 
@@ -10,13 +10,13 @@
 
 ##  Who am I?
 
-I'm **Feonixid** (Laerti Shabani) — a student **and** an independent ML researcher from the Balkans. Everything I build is connected by one simple thread: **AI**. I want to understand how intelligence emerges from training — and move the needle closer to **AGI**, one honest experiment at a time.
+I'm **Feonixid** (Laerti Shabani) — a student and an independent ML researcher from the Balkans. Everything I build is connected by one simple thread: **AI**. I want to understand how intelligence emerges from training and move the needle closer to **AGI** one small step at a time.
 
-My entire lab is two Kaggle T4s and stubbornness. This is not a complaint; it's the research philosophy.
+My entire lab is two Kaggle T4s and a bit of obsessiveness.
 
 ##  Research
 
-Every project ships with code, raw per-seed results, and a single canonical reproduction script. Failed runs and negative results are reported, not hidden — honesty about the work is the whole point.
+Every project ships with code, raw per-seed results, and a single canonical reproduction script. Failed runs and negative results are reported, not hidden because honesty about the work is the whole point.
 
 | Repo | The question it asks | The answer so far |
 |---|---|---|
@@ -43,8 +43,8 @@ Every project ships with code, raw per-seed results, and a single canonical repr
 
 - **ML:** PyTorch, Kaggle (T4 ×2 — see: research philosophy)
 - **Papers:** LaTeX
-- **Languages:** Python · C · Luau (yes, the Roblox one — it's how the game dev started) · JavaScript · HTML · Bash
-- **Currently learning:** higher-level mathematics — the kind my repos keep reaching for. The repos only cover the applied side so far.
+- **Languages:** Python · C · Luau (yes the Roblox one it's how the game dev started) · JavaScript · HTML · Bash
+- **Currently learning:** higher-level mathematics the kind my repos keep reaching for. The repos only cover the applied side so far.
 
 ##  Beyond ML
 
