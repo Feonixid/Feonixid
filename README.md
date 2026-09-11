@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Feonixid;Independent+ML+Researcher;Student;Trying+to+move+the+needle+closer+to+AGI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Feonixid;Independent+ML+Researcher;Student;Moving+the+needle+closer+to+AGI" alt="Typing SVG" />
 </div>
 
 <h3 align="center">Status: doing nothing about my sleep.</h3>
