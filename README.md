@@ -57,6 +57,6 @@ Every project ships with code, raw per-seed results, and a single canonical repr
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Feonixid&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img src="https://ghstats.dev" alt="GitHub stats" />
   <img src="https://streak-stats.demolab.com?user=Feonixid&theme=midnight-purple&hide_border=true" alt="Streak stats" />
 </div>
