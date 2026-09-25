@@ -12,7 +12,7 @@
 
 I'm **Feonixid** (Laerti Shabani) — a student and an independent ML researcher from the Balkans. Everything I build is connected by one simple thread: **AI**. I want to understand how intelligence emerges from training and move the needle closer to **AGI** one small step at a time.
 
-My entire lab is two Kaggle T4s and a bit of obsessiveness.
+My entire lab is two Kaggle T4s fortunately.
 
 ##  Research
 
